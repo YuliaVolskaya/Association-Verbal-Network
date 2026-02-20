@@ -67,3 +67,37 @@
 
 Для компоновки графа используется силовой алгоритм Фрухтермана–Рейнгольда (Fruchterman–Reingold, 1991) – spring_layout с параметром k=3.0. Алгоритм моделирует систему, в которой узлы отталкиваются друг от друга, а рёбра притягивают, что позволяет визуально разделить слабосвязанные компоненты и подчеркнуть структуру групп. Чтобы дополнительно выделить кластеры, узлы каждого сообщества сначала укладываются локально, а затем смещаются в разные стороны (group_centers), что делает группировку более наглядной.
 
+## Список датафреймов и их описание
+
+| Имя датафрейма      | Описание                                                                                                 |
+|---------------------|----------------------------------------------------------------------------------------------------------|
+| **df2**             | Базовый датафрейм: отдельные колонки для стимулов и их ассоциаций; для каждой ассоциации указаны абсолютная частота, лемма, часть речи; для стимулов — частеречная характеристика. |
+| **df_summary**      | Сводная статистика по стимулам: часть речи, общее число ассоциаций, число уникальных/одиночных ассоциаций, количество отказов; доли частеречных характеристик внутри ассоциативного поля (в %). |
+| **df_lemma**        | Таблица для лемматизированных ассоциаций с пересчитанными (агрегированными) частотами.                   |
+| **shared_lemmas**   | Включает только те леммы-ассоциации, которые встречаются минимум у двух разных стимулов; для каждой — число общих стимулов и их перечень. |
+| **df_strongest**    | Содержит самые сильные ассоциации ко всем стимулам: часть речи стимулов и ассоциаций, частоты, сила связи.|
+| **df_tfidf**        | Для каждого стимула — ассоциации с наибольшим значением TF-IDF, то есть наиболее характерные для данного слова. |
+| **df_graph_metrics**| Сетевые метрики для каждого стимула: число связей, взвешенная степень, центральность по степени, посредничество, близость. |
+
+## Список литературы
+
+1. Clauset, A., Newman, M. E. J., & Moore, C. (2004). Finding community structure in very large networks. *Physical Review E, 70*(6), 066111.
+2. Freeman, L. C. (1977). A set of measures of centrality based on betweenness. *Sociometry, 40*(1), 35–41.
+3. Fruchterman, T. M. J., & Reingold, E. M. (1991). Graph drawing by force-directed placement. * Software: Practice and Experience, 21*(11), 1129–1164.
+4. Zhou, H., Huang, S., Zheng, Y., Liu, J., Chen, Y., Chen, X., & Li, J. (2025). DKGV: A Dynamic Knowledge Graph Visualization Method Based on Force-Directed Layout. In *Proceedings of the 19th ACM SIGGRAPH International Conference on Virtual-Reality Continuum and its Applications in Industry (VRCAI '24)* (Article 3, pp. 1–8). Association for Computing Machinery. 
+5. Караулов, Ю. Н. (1993). Ассоциативная грамматика русского языка. Москва: Наука.
+6. Steyvers, M., & Tenenbaum, J. B. (2005). The large-scale structure of semantic networks: Statistical analyses and a model of semantic growth. *Cognitive Science, 29*(1), 41–78.
+7. Thane, M., Blum, K. M., & Lehmann, D. J. (2023). CatNetVis: Semantic Visual Exploration of Categorical High-Dimensional Data with Force-Directed Graph Layouts. In T. Höllt, W. Aigner, & B. Wang (Eds.), *25th Eurographics Conference on Visualization, EuroVis 2023 – Short Papers* (pp. 91–95). Eurographics Association.
+8. Huang, R., Gai, H., Jing, R., & Wan, F. (2024). Word Spectral Visualization Based on Fruchterman-Reingold Optimized ForceAtlas2. *Journal of Electrical Systems*, 20*(2).
+9. De Deyne, S., Navarro, D. J., & Storms, G. (2013). Better explanations of lexical and semantic cognition using networks derived from continued rather than single word associations. *Behavior Research Methods*, 45(2), 480–498.
+10. De Deyne, S., Navarro, D. J., Perfors, A., Brysbaert, M., & Storms, G. (2019). The "Small World of Words": English word association norms for over 12,000 cue words. *Behavior Research Methods*, 51(3), 987–1006.
+11. De Deyne, S., Navarro, D. J., Collell, G., & Perfors, A. (2021). Visual and affective multimodal models of word meaning in language and mind. *Cognitive Science*, 45(1), e12922.
+12. Gruenenfelder, T. M., Recchia, G., Rubin, T., & Jones, M. N. (2016). Graph-theoretic properties of networks based on word association norms: Implications for models of lexical semantic memory. *Cognitive Science*, 40(6), 1460–1495.
+13. Lakhzoum, D., Izaute, M., & Ferrand, L. (2023). Word-association norms for 1,100 French words with varying levels of concreteness. *Quarterly Journal of Experimental Psychology*, 76(12), 2794–2803.
+14. Planchuelo, C., Buades-Sitjar, F., Hinojo, J. A., & Duñabeitia, J. A. (2022). The nature of word associations in sentence contexts. *Experimental Psychology*, 69(2), 104–110.
+15. Schulte im Walde, S., & Borgwaldt, S. (2015). Association norms for German noun compounds and their constituents. *Behavior Research Methods*, 47(4), 1199–1221.
+16. Solovyev, V. D., Vol'skaya, Yu. A., & Akhtiamov, R. B. (2023). Range of associations to Russian abstract and concrete nouns. *Research Result. Theoretical and Applied Linguistics*, 9(1), 153–173.
+17. Stadthagen-Gonzalez, H., Imbault, C., Pérez Sánchez, M. A., & Brysbaert, M. (2018). Norms of valence and arousal for 14,031 Spanish words. *Behavior Research Methods*, 49(1), 111–123.
+18. Vankrunkelsven, H., Verheyen, S., De Deyne, S., & Storms, G. (2015). Predicting lexical norms using a word association corpus. In D. C. Noelle, R. Dale, A. S. Warlaumont, J. Yoshimi, T. Matlock, C. D. Jennings, & P. P. Maglio (Eds.), *Proceedings of the 37th Annual Conference of the Cognitive Science Society* (pp. 2467–2472). Cognitive Science Society.
+19. Vankrunkelsven, H., Verheyen, S., Storms, G., & De Deyne, S. (2018). Predicting lexical norms: A comparison between a word association model and text-based word co-occurrence models. *Journal of Cognition*, 1(1), 11.
+20. Wulff, D. U., De Deyne, S., Aeschbach, S., & Mata, R. (2022). Using network science to understand the aging lexicon: Linking individuals' experience, semantic networks, and cognitive performance. *Topics in Cognitive Science*, 14(3), 93–110.
