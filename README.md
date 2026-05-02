@@ -93,7 +93,7 @@
 ### 1. Клонирование репозитория и установка зависимостей
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/YuliaVolskaya/associative-dictionary-ru
 cd your-repo-name
 pip install -r requirements.txt
 ```
