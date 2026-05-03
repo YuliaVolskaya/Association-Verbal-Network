@@ -1,0 +1,38 @@
+# Основные библиотеки для работы с данными
+pandas>=1.4.0
+numpy>=1.22.0
+openpyxl>=3.0.0
+
+# Лингвистическая обработка
+pymorphy3>=2.0.0
+nltk>=3.8.0
+python-Levenshtein>=0.20.0
+
+# Внешние ресурсы
+ruwordnet>=0.0.6
+
+# Машинное обучение
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.0
+scikit-learn>=1.1.0
+
+# Сетевой анализ и визуализация
+networkx>=3.0
+pyvis>=0.3.0
+
+# Статистика и метрики
+effsize>=0.8.0
+scipy>=1.8.0
+
+# Визуализация
+matplotlib>=3.5.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Веб-интерфейс
+streamlit>=1.25.0
+
+# Утилиты
+tqdm>=4.64.0
+joblib>=1.2.0
