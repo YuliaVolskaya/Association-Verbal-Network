@@ -1,0 +1,54 @@
+# --- Общие системные файлы ---
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+dist/
+build/
+eggs/
+*.manifest
+*.spec
+.env
+.venv
+venv/
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+
+
+# --- PyTorch / Модели ---
+*.pth
+*.pt
+*.bin
+*.pkl
+*.joblib
+*.h5
+*.ckpt
+checkpoint*/
+
+# --- Данные ---
+*.xlsx
+*.xls
+*.zip
+*.tar.gz
+*.rar
+
+# --- Результаты и логи ---
+*.log
+results/
+logs/
+
+# --- Конфигурации и IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
