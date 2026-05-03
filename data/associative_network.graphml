@@ -1,0 +1,2209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="edge" attr.name="sum_min" attr.type="long"/>
+<graph edgedefault="undirected"><node id="верхний"/>
+<node id="книга"/>
+<node id="полный"/>
+<node id="предыдущий"/>
+<node id="следующий"/>
+<node id="часть"/>
+<node id="иностранный"/>
+<node id="информационный"/>
+<node id="оружие"/>
+<node id="студент"/>
+<node id="федеральный"/>
+<node id="являться"/>
+<node id="банк"/>
+<node id="взять"/>
+<node id="дерево"/>
+<node id="доллар"/>
+<node id="квартира"/>
+<node id="крепкий"/>
+<node id="отношение"/>
+<node id="замечательный"/>
+<node id="производственный"/>
+<node id="случиться"/>
+<node id="театральный"/>
+<node id="технический"/>
+<node id="юридический"/>
+<node id="активный"/>
+<node id="имя"/>
+<node id="использование"/>
+<node id="массовый"/>
+<node id="отвечать"/>
+<node id="международный"/>
+<node id="политика"/>
+<node id="правительство"/>
+<node id="суд"/>
+<node id="экономика"/>
+<node id="европейский"/>
+<node id="российский"/>
+<node id="господин"/>
+<node id="давать"/>
+<node id="направление"/>
+<node id="палец"/>
+<node id="следовать"/>
+<node id="билет"/>
+<node id="долгий"/>
+<node id="обязательный"/>
+<node id="попасть"/>
+<node id="причина"/>
+<node id="пройти"/>
+<node id="пустой"/>
+<node id="ставить"/>
+<node id="крупный"/>
+<node id="сухой"/>
+<node id="упасть"/>
+<node id="широкий"/>
+<node id="дорога"/>
+<node id="ехать"/>
+<node id="находиться"/>
+<node id="оказываться"/>
+<node id="остановиться"/>
+<node id="отправиться"/>
+<node id="поехать"/>
+<node id="пойти"/>
+<node id="пора"/>
+<node id="проводить"/>
+<node id="собираться"/>
+<node id="собраться"/>
+<node id="возвращаться"/>
+<node id="держать"/>
+<node id="задний"/>
+<node id="лежать"/>
+<node id="область"/>
+<node id="падать"/>
+<node id="плечо"/>
+<node id="помочь"/>
+<node id="путь"/>
+<node id="сидеть"/>
+<node id="спина"/>
+<node id="удар"/>
+<node id="видеть"/>
+<node id="говорить"/>
+<node id="голос"/>
+<node id="замечать"/>
+<node id="понимать"/>
+<node id="послушать"/>
+<node id="слушать"/>
+<node id="слышать"/>
+<node id="услышать"/>
+<node id="чувствовать"/>
+<node id="нравиться"/>
+<node id="обращаться"/>
+<node id="объяснять"/>
+<node id="пригласить"/>
+<node id="спрашивать"/>
+<node id="удивиться"/>
+<node id="божий"/>
+<node id="деревянный"/>
+<node id="лесной"/>
+<node id="существенный"/>
+<node id="бежать"/>
+<node id="лететь"/>
+<node id="начаться"/>
+<node id="повторять"/>
+<node id="попытаться"/>
+<node id="стоять"/>
+<node id="ходить"/>
+<node id="игра"/>
+<node id="играть"/>
+<node id="мертвый"/>
+<node id="нести"/>
+<node id="нога"/>
+<node id="принести"/>
+<node id="рука"/>
+<node id="сыграть"/>
+<node id="железный"/>
+<node id="интерес"/>
+<node id="каменный"/>
+<node id="мужской"/>
+<node id="рубль"/>
+<node id="входить"/>
+<node id="вырасти"/>
+<node id="принимать"/>
+<node id="расти"/>
+<node id="роль"/>
+<node id="состоять"/>
+<node id="состояться"/>
+<node id="старший"/>
+<node id="вера"/>
+<node id="казаться"/>
+<node id="традиционный"/>
+<node id="занимать"/>
+<node id="использовать"/>
+<node id="испытывать"/>
+<node id="начинаться"/>
+<node id="пытаться"/>
+<node id="смочь"/>
+<node id="стараться"/>
+<node id="участие"/>
+<node id="вернуться"/>
+<node id="повод"/>
+<node id="появляться"/>
+<node id="приезжать"/>
+<node id="сесть"/>
+<node id="успеть"/>
+<node id="уходить"/>
+<node id="заметить"/>
+<node id="кивнуть"/>
+<node id="крикнуть"/>
+<node id="назвать"/>
+<node id="позвонить"/>
+<node id="понять"/>
+<node id="почувствовать"/>
+<node id="рассказать"/>
+<node id="узнавать"/>
+<node id="обладать"/>
+<node id="резкий"/>
+<node id="удивительный"/>
+<node id="ответ"/>
+<node id="возникнуть"/>
+<node id="изменить"/>
+<node id="суметь"/>
+<node id="вздохнуть"/>
+<node id="показать"/>
+<node id="показывать"/>
+<node id="думать"/>
+<node id="кричать"/>
+<node id="поговорить"/>
+<node id="разговаривать"/>
+<node id="сообщить"/>
+<node id="верить"/>
+<node id="вспоминать"/>
+<node id="вспомнить"/>
+<node id="напоминать"/>
+<node id="объем"/>
+<node id="помнить"/>
+<node id="снимать"/>
+<node id="известный"/>
+<node id="кино"/>
+<node id="наблюдать"/>
+<node id="снять"/>
+<node id="телефон"/>
+<node id="установить"/>
+<node id="фильм"/>
+<node id="директор"/>
+<node id="компания"/>
+<node id="название"/>
+<node id="начальник"/>
+<node id="организация"/>
+<node id="открыть"/>
+<node id="предприятие"/>
+<node id="производство"/>
+<node id="руководитель"/>
+<node id="создать"/>
+<node id="зайти"/>
+<node id="остаться"/>
+<node id="подойти"/>
+<node id="показаться"/>
+<node id="садиться"/>
+<node id="веселый"/>
+<node id="музыка"/>
+<node id="светлый"/>
+<node id="смешной"/>
+<node id="иметь"/>
+<node id="передать"/>
+<node id="позволять"/>
+<node id="хозяин"/>
+<node id="будущий"/>
+<node id="бывший"/>
+<node id="мысль"/>
+<node id="отечественный"/>
+<node id="разработать"/>
+<node id="поверить"/>
+<node id="позволить"/>
+<node id="судить"/>
+<node id="войти"/>
+<node id="выход"/>
+<node id="гореть"/>
+<node id="лес"/>
+<node id="огонь"/>
+<node id="заявить"/>
+<node id="представление"/>
+<node id="различный"/>
+<node id="разный"/>
+<node id="связь"/>
+<node id="фирма"/>
+<node id="оказаться"/>
+<node id="появиться"/>
+<node id="узнать"/>
+<node id="явиться"/>
+<node id="длинный"/>
+<node id="приходить"/>
+<node id="проходить"/>
+<node id="темный"/>
+<node id="узкий"/>
+<node id="короткий"/>
+<node id="круглый"/>
+<node id="шаг"/>
+<node id="одинаковый"/>
+<node id="правовой"/>
+<node id="японский"/>
+<node id="дойти"/>
+<node id="обратиться"/>
+<node id="относиться"/>
+<node id="перейти"/>
+<node id="похожий"/>
+<node id="прийти"/>
+<node id="духовный"/>
+<node id="судебный"/>
+<node id="военный"/>
+<node id="вызывать"/>
+<node id="чувство"/>
+<node id="дочь"/>
+<node id="подняться"/>
+<node id="разговор"/>
+<node id="род"/>
+<node id="фамилия"/>
+<node id="бог"/>
+<node id="дополнительный"/>
+<node id="минимальный"/>
+<node id="налоговый"/>
+<node id="красный"/>
+<node id="мокрый"/>
+<node id="национальный"/>
+<node id="плакать"/>
+<node id="православный"/>
+<node id="связанный"/>
+<node id="связать"/>
+<node id="воздух"/>
+<node id="круг"/>
+<node id="старик"/>
+<node id="информация"/>
+<node id="западный"/>
+<node id="передний"/>
+<node id="последующий"/>
+<node id="тема"/>
+<node id="встреча"/>
+<node id="домашний"/>
+<node id="мягкий"/>
+<node id="нижний"/>
+<node id="прекрасный"/>
+<node id="привычный"/>
+<node id="деньги"/>
+<node id="дорогой"/>
+<node id="купить"/>
+<node id="платить"/>
+<node id="зеленый"/>
+<node id="объявить"/>
+<node id="партия"/>
+<node id="искать"/>
+<node id="найти"/>
+<node id="находить"/>
+<node id="обнаружить"/>
+<node id="открывать"/>
+<node id="положить"/>
+<node id="семейный"/>
+<node id="гулять"/>
+<node id="двигаться"/>
+<node id="идти"/>
+<node id="сцена"/>
+<node id="театр"/>
+<node id="скорый"/>
+<node id="случай"/>
+<node id="смерть"/>
+<node id="ветер"/>
+<node id="вода"/>
+<node id="выйти"/>
+<node id="выходить"/>
+<node id="губа"/>
+<node id="оставаться"/>
+<node id="поле"/>
+<node id="хлеб"/>
+<node id="вещь"/>
+<node id="есть"/>
+<node id="выступать"/>
+<node id="песня"/>
+<node id="петь"/>
+<node id="считаться"/>
+<node id="исчезнуть"/>
+<node id="уезжать"/>
+<node id="уехать"/>
+<node id="возникать"/>
+<node id="смотреть"/>
+<node id="участвовать"/>
+<node id="встать"/>
+<node id="мочь"/>
+<node id="идея"/>
+<node id="книжка"/>
+<node id="писатель"/>
+<node id="подумать"/>
+<node id="создавать"/>
+<node id="создание"/>
+<node id="сон"/>
+<node id="основной"/>
+<node id="передавать"/>
+<node id="привыкнуть"/>
+<node id="еврейский"/>
+<node id="провести"/>
+<node id="религиозный"/>
+<node id="погибнуть"/>
+<node id="произойти"/>
+<node id="происходить"/>
+<node id="умереть"/>
+<node id="покупать"/>
+<node id="рынок"/>
+<node id="бить"/>
+<node id="голова"/>
+<node id="святой"/>
+<node id="желать"/>
+<node id="программа"/>
+<node id="называть"/>
+<node id="изменение"/>
+<node id="северный"/>
+<node id="армия"/>
+<node id="помощь"/>
+<node id="встретиться"/>
+<node id="посмотреть"/>
+<node id="экзамен"/>
+<node id="восточный"/>
+<node id="региональный"/>
+<node id="южный"/>
+<node id="девочка"/>
+<node id="старый"/>
+<node id="отдать"/>
+<node id="стол"/>
+<node id="хватать"/>
+<node id="материал"/>
+<node id="быстрый"/>
+<node id="значительный"/>
+<node id="врач"/>
+<node id="выпить"/>
+<node id="пить"/>
+<node id="принять"/>
+<node id="стремиться"/>
+<node id="дать"/>
+<node id="написать"/>
+<node id="ответить"/>
+<node id="попросить"/>
+<node id="рассказывать"/>
+<node id="улыбнуться"/>
+<node id="встречаться"/>
+<node id="договориться"/>
+<node id="согласиться"/>
+<node id="машина"/>
+<node id="культурный"/>
+<node id="измениться"/>
+<node id="ездить"/>
+<node id="работать"/>
+<node id="писать"/>
+<node id="прислать"/>
+<node id="просить"/>
+<node id="составить"/>
+<node id="составлять"/>
+<node id="занять"/>
+<node id="звать"/>
+<node id="смеяться"/>
+<node id="улыбаться"/>
+<node id="поставить"/>
+<node id="большой"/>
+<node id="летний"/>
+<node id="уголовный"/>
+<node id="завод"/>
+<node id="торговый"/>
+<node id="помогать"/>
+<node id="доктор"/>
+<node id="взгляд"/>
+<node id="государственный"/>
+<node id="глядеть"/>
+<node id="дверь"/>
+<node id="целый"/>
+<node id="согласный"/>
+<node id="государство"/>
+<node id="пол"/>
+<node id="солдат"/>
+<node id="комната"/>
+<node id="отец"/>
+<node id="зависеть"/>
+<node id="спать"/>
+<node id="здоровый"/>
+<node id="отказаться"/>
+<node id="церковь"/>
+<node id="редкий"/>
+<node id="роман"/>
+<node id="цвет"/>
+<node id="регион"/>
+<node id="город"/>
+<node id="повторить"/>
+<node id="промышленный"/>
+<node id="вызвать"/>
+<node id="звонить"/>
+<node id="папа"/>
+<node id="телефонный"/>
+<node id="брать"/>
+<node id="держаться"/>
+<node id="носить"/>
+<node id="вечер"/>
+<node id="ночь"/>
+<node id="стихи"/>
+<node id="литература"/>
+<node id="сторона"/>
+<node id="автомобиль"/>
+<node id="привезти"/>
+<node id="привести"/>
+<node id="приехать"/>
+<node id="журнал"/>
+<node id="товарищ"/>
+<node id="знаменитый"/>
+<node id="рисунок"/>
+<node id="левый"/>
+<node id="уйти"/>
+<node id="картина"/>
+<node id="оставить"/>
+<node id="оставлять"/>
+<node id="понравиться"/>
+<node id="женский"/>
+<node id="генерал"/>
+<node id="областной"/>
+<node id="объяснить"/>
+<node id="правый"/>
+<node id="поэт"/>
+<node id="автор"/>
+<node id="письмо"/>
+<node id="начать"/>
+<node id="меньший"/>
+<node id="приводить"/>
+<node id="магазин"/>
+<node id="спектакль"/>
+<node id="художник"/>
+<node id="ценный"/>
+<node id="младший"/>
+<node id="география"/>
+<edge source="верхний" target="нижний">
+  <data key="d0">41</data>
+  <data key="d1">0.04116499060625307</data>
+</edge>
+<edge source="верхний" target="губа">
+  <data key="d0">21</data>
+  <data key="d1">0.021342168765994034</data>
+</edge>
+<edge source="книга" target="журнал">
+  <data key="d0">19</data>
+  <data key="d1">0.019527245667583237</data>
+</edge>
+<edge source="книга" target="книжка">
+  <data key="d0">34</data>
+  <data key="d1">0.034659394100513975</data>
+</edge>
+<edge source="полный" target="пустой">
+  <data key="d0">17</data>
+  <data key="d1">0.01715481747256157</data>
+</edge>
+<edge source="предыдущий" target="бывший">
+  <data key="d0">35</data>
+  <data key="d1">0.03583388181531382</data>
+</edge>
+<edge source="предыдущий" target="будущий">
+  <data key="d0">25</data>
+  <data key="d1">0.025025037562609573</data>
+</edge>
+<edge source="следующий" target="последующий">
+  <data key="d0">49</data>
+  <data key="d1">0.049196886334365426</data>
+</edge>
+<edge source="часть" target="целый">
+  <data key="d0">17</data>
+  <data key="d1">0.017207747016301966</data>
+</edge>
+<edge source="иностранный" target="европейский">
+  <data key="d0">17</data>
+  <data key="d1">0.017439209021567263</data>
+</edge>
+<edge source="информационный" target="информация">
+  <data key="d0">18</data>
+  <data key="d1">0.018163554468707134</data>
+</edge>
+<edge source="оружие" target="торговый">
+  <data key="d0">17</data>
+  <data key="d1">0.017137236092821216</data>
+</edge>
+<edge source="студент" target="экзамен">
+  <data key="d0">20</data>
+  <data key="d1">0.02018164498735345</data>
+</edge>
+<edge source="федеральный" target="уголовный">
+  <data key="d0">18</data>
+  <data key="d1">0.018090534489119178</data>
+</edge>
+<edge source="являться" target="явиться">
+  <data key="d0">29</data>
+  <data key="d1">0.029234108628930312</data>
+</edge>
+<edge source="банк" target="деньги">
+  <data key="d0">17</data>
+  <data key="d1">0.017329697050256988</data>
+</edge>
+<edge source="банк" target="рубль">
+  <data key="d0">17</data>
+  <data key="d1">0.01741806935737966</data>
+</edge>
+<edge source="взять" target="занять">
+  <data key="d0">26</data>
+  <data key="d1">0.026052104208416832</data>
+</edge>
+<edge source="взять" target="попросить">
+  <data key="d0">27</data>
+  <data key="d1">0.02702704056761834</data>
+</edge>
+<edge source="взять" target="просить">
+  <data key="d0">17</data>
+  <data key="d1">0.01705116203734892</data>
+</edge>
+<edge source="взять" target="давать">
+  <data key="d0">53</data>
+  <data key="d1">0.0531062124248497</data>
+</edge>
+<edge source="взять" target="дать">
+  <data key="d0">31</data>
+  <data key="d1">0.031093295479871563</data>
+</edge>
+<edge source="взять" target="брать">
+  <data key="d0">67</data>
+  <data key="d1">0.06740497233092897</data>
+</edge>
+<edge source="дерево" target="лес">
+  <data key="d0">16</data>
+  <data key="d1">0.01637667183326862</data>
+</edge>
+<edge source="доллар" target="деньги">
+  <data key="d0">25</data>
+  <data key="d1">0.025484848603319097</data>
+</edge>
+<edge source="доллар" target="рубль">
+  <data key="d0">67</data>
+  <data key="d1">0.06864768511437865</data>
+</edge>
+<edge source="квартира" target="комната">
+  <data key="d0">16</data>
+  <data key="d1">0.016359952408967662</data>
+</edge>
+<edge source="крепкий" target="лесной">
+  <data key="d0">25</data>
+  <data key="d1">0.025646975215307434</data>
+</edge>
+<edge source="отношение" target="интерес">
+  <data key="d0">19</data>
+  <data key="d1">0.019270133661953986</data>
+</edge>
+<edge source="замечательный" target="прекрасный">
+  <data key="d0">16</data>
+  <data key="d1">0.016096612059941846</data>
+</edge>
+<edge source="производственный" target="предприятие">
+  <data key="d0">22</data>
+  <data key="d1">0.022222222222222223</data>
+</edge>
+<edge source="производственный" target="производство">
+  <data key="d0">31</data>
+  <data key="d1">0.03121867217992754</data>
+</edge>
+<edge source="производственный" target="промышленный">
+  <data key="d0">22</data>
+  <data key="d1">0.022661393355944963</data>
+</edge>
+<edge source="случиться" target="случай">
+  <data key="d0">26</data>
+  <data key="d1">0.018561109190551994</data>
+</edge>
+<edge source="случиться" target="произойти">
+  <data key="d0">24</data>
+  <data key="d1">0.01709882330481205</data>
+</edge>
+<edge source="театральный" target="спектакль">
+  <data key="d0">25</data>
+  <data key="d1">0.025125742345998858</data>
+</edge>
+<edge source="театральный" target="театр">
+  <data key="d0">21</data>
+  <data key="d1">0.02119072723672112</data>
+</edge>
+<edge source="технический" target="массовый">
+  <data key="d0">24</data>
+  <data key="d1">0.024242473711862965</data>
+</edge>
+<edge source="юридический" target="правовой">
+  <data key="d0">25</data>
+  <data key="d1">0.025227056234191813</data>
+</edge>
+<edge source="юридический" target="судебный">
+  <data key="d0">17</data>
+  <data key="d1">0.017102754173519294</data>
+</edge>
+<edge source="активный" target="здоровый">
+  <data key="d0">35</data>
+  <data key="d1">0.03521155271018678</data>
+</edge>
+<edge source="имя" target="фамилия">
+  <data key="d0">31</data>
+  <data key="d1">0.031124560742149556</data>
+</edge>
+<edge source="использование" target="использовать">
+  <data key="d0">41</data>
+  <data key="d1">0.04116474162671393</data>
+</edge>
+<edge source="отвечать" target="ответить">
+  <data key="d0">41</data>
+  <data key="d1">0.04112339079595916</data>
+</edge>
+<edge source="отвечать" target="ответ">
+  <data key="d0">20</data>
+  <data key="d1">0.020080321285140562</data>
+</edge>
+<edge source="международный" target="экономика">
+  <data key="d0">17</data>
+  <data key="d1">0.0171198475531398</data>
+</edge>
+<edge source="политика" target="правительство">
+  <data key="d0">20</data>
+  <data key="d1">0.020100593876799085</data>
+</edge>
+<edge source="правительство" target="государство">
+  <data key="d0">18</data>
+  <data key="d1">0.01805417156895768</data>
+</edge>
+<edge source="суд" target="судить">
+  <data key="d0">22</data>
+  <data key="d1">0.02208835341365462</data>
+</edge>
+<edge source="европейский" target="восточный">
+  <data key="d0">28</data>
+  <data key="d1">0.028169014084507043</data>
+</edge>
+<edge source="европейский" target="еврейский">
+  <data key="d0">16</data>
+  <data key="d1">0.0161453817499619</data>
+</edge>
+<edge source="российский" target="отечественный">
+  <data key="d0">16</data>
+  <data key="d1">0.016112863060607763</data>
+</edge>
+<edge source="господин" target="хозяин">
+  <data key="d0">21</data>
+  <data key="d1">0.02102103155259204</data>
+</edge>
+<edge source="давать" target="дать">
+  <data key="d0">47</data>
+  <data key="d1">0.04714144798561172</data>
+</edge>
+<edge source="давать" target="передавать">
+  <data key="d0">18</data>
+  <data key="d1">0.018127118013822243</data>
+</edge>
+<edge source="давать" target="попросить">
+  <data key="d0">26</data>
+  <data key="d1">0.026026039065113957</data>
+</edge>
+<edge source="давать" target="занять">
+  <data key="d0">19</data>
+  <data key="d1">0.01903807615230461</data>
+</edge>
+<edge source="давать" target="просить">
+  <data key="d0">16</data>
+  <data key="d1">0.01604815250574016</data>
+</edge>
+<edge source="давать" target="брать">
+  <data key="d0">45</data>
+  <data key="d1">0.045271996341668716</data>
+</edge>
+<edge source="направление" target="западный">
+  <data key="d0">18</data>
+  <data key="d1">0.018072434900306224</data>
+</edge>
+<edge source="направление" target="сторона">
+  <data key="d0">17</data>
+  <data key="d1">0.01710265031368821</data>
+</edge>
+<edge source="палец" target="рука">
+  <data key="d0">22</data>
+  <data key="d1">0.022541030933079558</data>
+</edge>
+<edge source="следовать" target="наблюдать">
+  <data key="d0">24</data>
+  <data key="d1">0.024120712652158902</data>
+</edge>
+<edge source="билет" target="роль">
+  <data key="d0">22</data>
+  <data key="d1">0.022155186708335675</data>
+</edge>
+<edge source="билет" target="выступать">
+  <data key="d0">16</data>
+  <data key="d1">0.016112863060607763</data>
+</edge>
+<edge source="билет" target="спектакль">
+  <data key="d0">16</data>
+  <data key="d1">0.016096709810371097</data>
+</edge>
+<edge source="билет" target="лететь">
+  <data key="d0">17</data>
+  <data key="d1">0.017102754173519294</data>
+</edge>
+<edge source="билет" target="успеть">
+  <data key="d0">18</data>
+  <data key="d1">0.018163480488618104</data>
+</edge>
+<edge source="долгий" target="скорый">
+  <data key="d0">18</data>
+  <data key="d1">0.01803610836126455</data>
+</edge>
+<edge source="долгий" target="быстрый">
+  <data key="d0">16</data>
+  <data key="d1">0.016096872731710676</data>
+</edge>
+<edge source="обязательный" target="минимальный">
+  <data key="d0">24</data>
+  <data key="d1">0.024242473711862965</data>
+</edge>
+<edge source="обязательный" target="налоговый">
+  <data key="d0">17</data>
+  <data key="d1">0.01720647773279352</data>
+</edge>
+<edge source="попасть" target="оказываться">
+  <data key="d0">24</data>
+  <data key="d1">0.024266948704176124</data>
+</edge>
+<edge source="попасть" target="падать">
+  <data key="d0">21</data>
+  <data key="d1">0.02114813276704769</data>
+</edge>
+<edge source="попасть" target="упасть">
+  <data key="d0">35</data>
+  <data key="d1">0.035246887945079484</data>
+</edge>
+<edge source="попасть" target="оказаться">
+  <data key="d0">35</data>
+  <data key="d1">0.03538930019359018</data>
+</edge>
+<edge source="причина" target="повод">
+  <data key="d0">17</data>
+  <data key="d1">0.01710265031368821</data>
+</edge>
+<edge source="пройти" target="проходить">
+  <data key="d0">71</data>
+  <data key="d1">0.07128528428040705</data>
+</edge>
+<edge source="пустой" target="объем">
+  <data key="d0">16</data>
+  <data key="d1">0.01604815250574016</data>
+</edge>
+<edge source="ставить" target="поставить">
+  <data key="d0">61</data>
+  <data key="d1">0.06118382763923425</data>
+</edge>
+<edge source="ставить" target="положить">
+  <data key="d0">30</data>
+  <data key="d1">0.03009040703568898</data>
+</edge>
+<edge source="крупный" target="большой">
+  <data key="d0">16</data>
+  <data key="d1">0.01603206412825651</data>
+</edge>
+<edge source="сухой" target="мокрый">
+  <data key="d0">33</data>
+  <data key="d1">0.033099447739257874</data>
+</edge>
+<edge source="сухой" target="вода">
+  <data key="d0">16</data>
+  <data key="d1">0.01638120311557203</data>
+</edge>
+<edge source="упасть" target="падать">
+  <data key="d0">107</data>
+  <data key="d1">0.10742971887550201</data>
+</edge>
+<edge source="упасть" target="исчезнуть">
+  <data key="d0">37</data>
+  <data key="d1">0.037074222742599354</data>
+</edge>
+<edge source="упасть" target="лежать">
+  <data key="d0">18</data>
+  <data key="d1">0.01803610836126455</data>
+</edge>
+<edge source="упасть" target="сесть">
+  <data key="d0">18</data>
+  <data key="d1">0.018072289156626505</data>
+</edge>
+<edge source="широкий" target="узкий">
+  <data key="d0">24</data>
+  <data key="d1">0.02404809619238477</data>
+</edge>
+<edge source="дорога" target="путь">
+  <data key="d0">17</data>
+  <data key="d1">0.017068307503759435</data>
+</edge>
+<edge source="ехать" target="поехать">
+  <data key="d0">25</data>
+  <data key="d1">0.025304939926283604</data>
+</edge>
+<edge source="ехать" target="ездить">
+  <data key="d0">43</data>
+  <data key="d1">0.04356817405165778</data>
+</edge>
+<edge source="находиться" target="входить">
+  <data key="d0">18</data>
+  <data key="d1">0.018108651911468814</data>
+</edge>
+<edge source="находиться" target="зайти">
+  <data key="d0">16</data>
+  <data key="d1">0.01608041013126648</data>
+</edge>
+<edge source="оказываться" target="оказаться">
+  <data key="d0">57</data>
+  <data key="d1">0.057692307692307696</data>
+</edge>
+<edge source="остановиться" target="зеленый">
+  <data key="d0">17</data>
+  <data key="d1">0.017190143178428954</data>
+</edge>
+<edge source="остановиться" target="красный">
+  <data key="d0">17</data>
+  <data key="d1">0.017276743944041283</data>
+</edge>
+<edge source="отправиться" target="поехать">
+  <data key="d0">30</data>
+  <data key="d1">0.03006012024048096</data>
+</edge>
+<edge source="отправиться" target="собираться">
+  <data key="d0">23</data>
+  <data key="d1">0.023069219227001482</data>
+</edge>
+<edge source="отправиться" target="собраться">
+  <data key="d0">37</data>
+  <data key="d1">0.037111352669524124</data>
+</edge>
+<edge source="отправиться" target="уезжать">
+  <data key="d0">17</data>
+  <data key="d1">0.017102754173519294</data>
+</edge>
+<edge source="поехать" target="уезжать">
+  <data key="d0">31</data>
+  <data key="d1">0.031187375257594005</data>
+</edge>
+<edge source="поехать" target="уехать">
+  <data key="d0">35</data>
+  <data key="d1">0.03507014028056112</data>
+</edge>
+<edge source="поехать" target="ездить">
+  <data key="d0">41</data>
+  <data key="d1">0.04112339079595916</data>
+</edge>
+<edge source="поехать" target="приезжать">
+  <data key="d0">19</data>
+  <data key="d1">0.01903807615230461</data>
+</edge>
+<edge source="пойти" target="собраться">
+  <data key="d0">18</data>
+  <data key="d1">0.018072289156626505</data>
+</edge>
+<edge source="пойти" target="дойти">
+  <data key="d0">20</data>
+  <data key="d1">0.0201005126640831</data>
+</edge>
+<edge source="пойти" target="идти">
+  <data key="d0">34</data>
+  <data key="d1">0.03410232407469784</data>
+</edge>
+<edge source="пойти" target="ходить">
+  <data key="d0">25</data>
+  <data key="d1">0.025075238290219</data>
+</edge>
+<edge source="пора" target="летний">
+  <data key="d0">18</data>
+  <data key="d1">0.01805417156895768</data>
+</edge>
+<edge source="пора" target="уходить">
+  <data key="d0">20</data>
+  <data key="d1">0.020080321285140562</data>
+</edge>
+<edge source="проводить" target="провести">
+  <data key="d0">16</data>
+  <data key="d1">0.01604815250574016</data>
+</edge>
+<edge source="собираться" target="собраться">
+  <data key="d0">69</data>
+  <data key="d1">0.06927710843373494</data>
+</edge>
+<edge source="возвращаться" target="вернуться">
+  <data key="d0">34</data>
+  <data key="d1">0.03413654618473896</data>
+</edge>
+<edge source="держать" target="хватать">
+  <data key="d0">18</data>
+  <data key="d1">0.01805417156895768</data>
+</edge>
+<edge source="держать" target="брать">
+  <data key="d0">19</data>
+  <data key="d1">0.01913402488447172</data>
+</edge>
+<edge source="держать" target="держаться">
+  <data key="d0">42</data>
+  <data key="d1">0.04233905387638183</data>
+</edge>
+<edge source="задний" target="передний">
+  <data key="d0">72</data>
+  <data key="d1">0.07378924019182687</data>
+</edge>
+<edge source="лежать" target="сидеть">
+  <data key="d0">18</data>
+  <data key="d1">0.018</data>
+</edge>
+<edge source="область" target="регион">
+  <data key="d0">28</data>
+  <data key="d1">0.028084379899976378</data>
+</edge>
+<edge source="падать" target="сесть">
+  <data key="d0">18</data>
+  <data key="d1">0.018072289156626505</data>
+</edge>
+<edge source="плечо" target="спина">
+  <data key="d0">22</data>
+  <data key="d1">0.022358139221700487</data>
+</edge>
+<edge source="плечо" target="нога">
+  <data key="d0">26</data>
+  <data key="d1">0.026423255443827846</data>
+</edge>
+<edge source="плечо" target="рука">
+  <data key="d0">25</data>
+  <data key="d1">0.025459093317706405</data>
+</edge>
+<edge source="плечо" target="голова">
+  <data key="d0">28</data>
+  <data key="d1">0.02814105882725794</data>
+</edge>
+<edge source="помочь" target="помогать">
+  <data key="d0">32</data>
+  <data key="d1">0.03219315895372234</data>
+</edge>
+<edge source="помочь" target="помощь">
+  <data key="d0">30</data>
+  <data key="d1">0.03015076899612465</data>
+</edge>
+<edge source="сидеть" target="садиться">
+  <data key="d0">71</data>
+  <data key="d1">0.07114242742498796</data>
+</edge>
+<edge source="сидеть" target="сесть">
+  <data key="d0">66</data>
+  <data key="d1">0.06613239732463669</data>
+</edge>
+<edge source="спина" target="голова">
+  <data key="d0">18</data>
+  <data key="d1">0.018201328071277716</data>
+</edge>
+<edge source="удар" target="бить">
+  <data key="d0">24</data>
+  <data key="d1">0.02407222875861024</data>
+</edge>
+<edge source="видеть" target="смотреть">
+  <data key="d0">17</data>
+  <data key="d1">0.01727699376294755</data>
+</edge>
+<edge source="видеть" target="глядеть">
+  <data key="d0">19</data>
+  <data key="d1">0.019076459061434348</data>
+</edge>
+<edge source="видеть" target="посмотреть">
+  <data key="d0">16</data>
+  <data key="d1">0.016064386578049976</data>
+</edge>
+<edge source="говорить" target="разговаривать">
+  <data key="d0">27</data>
+  <data key="d1">0.027108488388323807</data>
+</edge>
+<edge source="голос" target="петь">
+  <data key="d0">19</data>
+  <data key="d1">0.01905718110056644</data>
+</edge>
+<edge source="замечать" target="заметить">
+  <data key="d0">33</data>
+  <data key="d1">0.03346862868940649</data>
+</edge>
+<edge source="понимать" target="понять">
+  <data key="d0">21</data>
+  <data key="d1">0.021126803328673675</data>
+</edge>
+<edge source="послушать" target="слушать">
+  <data key="d0">24</data>
+  <data key="d1">0.024145309097566015</data>
+</edge>
+<edge source="слушать" target="слышать">
+  <data key="d0">17</data>
+  <data key="d1">0.017017025542574508</data>
+</edge>
+<edge source="слышать" target="услышать">
+  <data key="d0">18</data>
+  <data key="d1">0.018090534489119178</data>
+</edge>
+<edge source="чувствовать" target="чувство">
+  <data key="d0">25</data>
+  <data key="d1">0.025303851103564996</data>
+</edge>
+<edge source="чувствовать" target="почувствовать">
+  <data key="d0">24</data>
+  <data key="d1">0.024316221747202584</data>
+</edge>
+<edge source="чувствовать" target="испытывать">
+  <data key="d0">18</data>
+  <data key="d1">0.018200434820322832</data>
+</edge>
+<edge source="нравиться" target="понравиться">
+  <data key="d0">18</data>
+  <data key="d1">0.01812689740920685</data>
+</edge>
+<edge source="обращаться" target="звать">
+  <data key="d0">33</data>
+  <data key="d1">0.033132797317228076</data>
+</edge>
+<edge source="обращаться" target="обратиться">
+  <data key="d0">59</data>
+  <data key="d1">0.05935625697103556</data>
+</edge>
+<edge source="обращаться" target="относиться">
+  <data key="d0">25</data>
+  <data key="d1">0.025125742345998858</data>
+</edge>
+<edge source="обращаться" target="подойти">
+  <data key="d0">19</data>
+  <data key="d1">0.019076459061434348</data>
+</edge>
+<edge source="обращаться" target="назвать">
+  <data key="d0">29</data>
+  <data key="d1">0.029145861121358675</data>
+</edge>
+<edge source="объяснять" target="объяснить">
+  <data key="d0">33</data>
+  <data key="d1">0.03313259691906243</data>
+</edge>
+<edge source="пригласить" target="вызвать">
+  <data key="d0">22</data>
+  <data key="d1">0.02219989990619761</data>
+</edge>
+<edge source="спрашивать" target="позволить">
+  <data key="d0">20</data>
+  <data key="d1">0.0205401174394842</data>
+</edge>
+<edge source="спрашивать" target="позволять">
+  <data key="d0">19</data>
+  <data key="d1">0.01905718110056644</data>
+</edge>
+<edge source="удивиться" target="культурный">
+  <data key="d0">20</data>
+  <data key="d1">0.020202020202020204</data>
+</edge>
+<edge source="божий" target="бог">
+  <data key="d0">17</data>
+  <data key="d1">0.0172422661021805</data>
+</edge>
+<edge source="божий" target="святой">
+  <data key="d0">20</data>
+  <data key="d1">0.020040120401405057</data>
+</edge>
+<edge source="деревянный" target="каменный">
+  <data key="d0">19</data>
+  <data key="d1">0.019019028547583274</data>
+</edge>
+<edge source="лесной" target="лес">
+  <data key="d0">40</data>
+  <data key="d1">0.04141106279288378</data>
+</edge>
+<edge source="лесной" target="огонь">
+  <data key="d0">15</data>
+  <data key="d1">0.028132539651815745</data>
+</edge>
+<edge source="существенный" target="значительный">
+  <data key="d0">19</data>
+  <data key="d1">0.019172797011130307</data>
+</edge>
+<edge source="бежать" target="быстрый">
+  <data key="d0">16</data>
+  <data key="d1">0.016112993790064215</data>
+</edge>
+<edge source="бежать" target="успеть">
+  <data key="d0">19</data>
+  <data key="d1">0.019095564182959133</data>
+</edge>
+<edge source="начаться" target="начинаться">
+  <data key="d0">19</data>
+  <data key="d1">0.019153264733359206</data>
+</edge>
+<edge source="начаться" target="начать">
+  <data key="d0">21</data>
+  <data key="d1">0.02125545268082973</data>
+</edge>
+<edge source="повторять" target="повторить">
+  <data key="d0">49</data>
+  <data key="d1">0.049246256027003596</data>
+</edge>
+<edge source="попытаться" target="пытаться">
+  <data key="d0">36</data>
+  <data key="d1">0.03658604599914625</data>
+</edge>
+<edge source="попытаться" target="стараться">
+  <data key="d0">16</data>
+  <data key="d1">0.016244065020606557</data>
+</edge>
+<edge source="попытаться" target="суметь">
+  <data key="d0">23</data>
+  <data key="d1">0.023445573444193155</data>
+</edge>
+<edge source="стоять" target="встать">
+  <data key="d0">20</data>
+  <data key="d1">0.0200601906321752</data>
+</edge>
+<edge source="ходить" target="гулять">
+  <data key="d0">19</data>
+  <data key="d1">0.01911484289981568</data>
+</edge>
+<edge source="ходить" target="идти">
+  <data key="d0">26</data>
+  <data key="d1">0.026052104208416832</data>
+</edge>
+<edge source="игра" target="играть">
+  <data key="d0">31</data>
+  <data key="d1">0.03125025405161516</data>
+</edge>
+<edge source="игра" target="сыграть">
+  <data key="d0">25</data>
+  <data key="d1">0.025125640830103876</data>
+</edge>
+<edge source="играть" target="сыграть">
+  <data key="d0">55</data>
+  <data key="d1">0.05549974976549402</data>
+</edge>
+<edge source="мертвый" target="смерть">
+  <data key="d0">29</data>
+  <data key="d1">0.02944346041886953</data>
+</edge>
+<edge source="мертвый" target="умереть">
+  <data key="d0">28</data>
+  <data key="d1">0.028747433264887063</data>
+</edge>
+<edge source="нести" target="принести">
+  <data key="d0">16</data>
+  <data key="d1">0.016032096321124047</data>
+</edge>
+<edge source="нога" target="рука">
+  <data key="d0">20</data>
+  <data key="d1">0.020491846302799595</data>
+</edge>
+<edge source="нога" target="шаг">
+  <data key="d0">18</data>
+  <data key="d1">0.018219556746924194</data>
+</edge>
+<edge source="принести" target="привезти">
+  <data key="d0">22</data>
+  <data key="d1">0.02211056393049141</data>
+</edge>
+<edge source="сыграть" target="партия">
+  <data key="d0">18</data>
+  <data key="d1">0.018054244221413388</data>
+</edge>
+<edge source="железный" target="каменный">
+  <data key="d0">22</data>
+  <data key="d1">0.02231402584392164</data>
+</edge>
+<edge source="железный" target="материал">
+  <data key="d0">19</data>
+  <data key="d1">0.01968997552831003</data>
+</edge>
+<edge source="интерес" target="привыкнуть">
+  <data key="d0">23</data>
+  <data key="d1">0.02316214668954208</data>
+</edge>
+<edge source="интерес" target="относиться">
+  <data key="d0">20</data>
+  <data key="d1">0.020100593876799085</data>
+</edge>
+<edge source="мужской" target="дорогой">
+  <data key="d0">16</data>
+  <data key="d1">0.016112863060607763</data>
+</edge>
+<edge source="рубль" target="деньги">
+  <data key="d0">21</data>
+  <data key="d1">0.02136345031854471</data>
+</edge>
+<edge source="входить" target="зайти">
+  <data key="d0">41</data>
+  <data key="d1">0.04120605096137035</data>
+</edge>
+<edge source="входить" target="войти">
+  <data key="d0">45</data>
+  <data key="d1">0.045226153494186974</data>
+</edge>
+<edge source="вырасти" target="расти">
+  <data key="d0">45</data>
+  <data key="d1">0.04518081398053968</data>
+</edge>
+<edge source="принимать" target="принять">
+  <data key="d0">18</data>
+  <data key="d1">0.018072289156626505</data>
+</edge>
+<edge source="расти" target="состояться">
+  <data key="d0">17</data>
+  <data key="d1">0.017172277851099125</data>
+</edge>
+<edge source="состоять" target="состояться">
+  <data key="d0">34</data>
+  <data key="d1">0.03448304237568765</data>
+</edge>
+<edge source="старший" target="младший">
+  <data key="d0">29</data>
+  <data key="d1">0.02984448987655394</data>
+</edge>
+<edge source="вера" target="религиозный">
+  <data key="d0">19</data>
+  <data key="d1">0.019172562737985777</data>
+</edge>
+<edge source="вера" target="верить">
+  <data key="d0">26</data>
+  <data key="d1">0.026316005147707596</data>
+</edge>
+<edge source="казаться" target="показаться">
+  <data key="d0">16</data>
+  <data key="d1">0.01612906503861828</data>
+</edge>
+<edge source="традиционный" target="привычный">
+  <data key="d0">16</data>
+  <data key="d1">0.016178031962621495</data>
+</edge>
+<edge source="традиционный" target="религиозный">
+  <data key="d0">17</data>
+  <data key="d1">0.017206512986876144</data>
+</edge>
+<edge source="занимать" target="занять">
+  <data key="d0">19</data>
+  <data key="d1">0.01905718110056644</data>
+</edge>
+<edge source="начинаться" target="начать">
+  <data key="d0">25</data>
+  <data key="d1">0.02535517821741739</data>
+</edge>
+<edge source="пытаться" target="стараться">
+  <data key="d0">23</data>
+  <data key="d1">0.02320889173545647</data>
+</edge>
+<edge source="смочь" target="суметь">
+  <data key="d0">16</data>
+  <data key="d1">0.016360226085162452</data>
+</edge>
+<edge source="смочь" target="мочь">
+  <data key="d0">19</data>
+  <data key="d1">0.019349272120873003</data>
+</edge>
+<edge source="стараться" target="работать">
+  <data key="d0">23</data>
+  <data key="d1">0.023138879836166405</data>
+</edge>
+<edge source="участие" target="участвовать">
+  <data key="d0">41</data>
+  <data key="d1">0.04133098116503941</data>
+</edge>
+<edge source="появляться" target="возникнуть">
+  <data key="d0">28</data>
+  <data key="d1">0.02814083142751872</data>
+</edge>
+<edge source="появляться" target="появиться">
+  <data key="d0">53</data>
+  <data key="d1">0.0531062124248497</data>
+</edge>
+<edge source="появляться" target="явиться">
+  <data key="d0">18</data>
+  <data key="d1">0.018127118013822243</data>
+</edge>
+<edge source="появляться" target="возникать">
+  <data key="d0">21</data>
+  <data key="d1">0.021042084168336674</data>
+</edge>
+<edge source="появляться" target="показаться">
+  <data key="d0">17</data>
+  <data key="d1">0.017068307503759435</data>
+</edge>
+<edge source="появляться" target="выступать">
+  <data key="d0">22</data>
+  <data key="d1">0.022066209695392722</data>
+</edge>
+<edge source="приезжать" target="ездить">
+  <data key="d0">16</data>
+  <data key="d1">0.01604815250574016</data>
+</edge>
+<edge source="приезжать" target="уезжать">
+  <data key="d0">20</data>
+  <data key="d1">0.020120887262963873</data>
+</edge>
+<edge source="приезжать" target="приехать">
+  <data key="d0">17</data>
+  <data key="d1">0.01705116203734892</data>
+</edge>
+<edge source="приезжать" target="уехать">
+  <data key="d0">16</data>
+  <data key="d1">0.01603206412825651</data>
+</edge>
+<edge source="сесть" target="садиться">
+  <data key="d0">157</data>
+  <data key="d1">0.1576305220883534</data>
+</edge>
+<edge source="уходить" target="уезжать">
+  <data key="d0">21</data>
+  <data key="d1">0.02114813276704769</data>
+</edge>
+<edge source="уходить" target="уйти">
+  <data key="d0">64</data>
+  <data key="d1">0.06419261002296064</data>
+</edge>
+<edge source="кивнуть" target="согласиться">
+  <data key="d0">20</data>
+  <data key="d1">0.020560729705021638</data>
+</edge>
+<edge source="кивнуть" target="улыбнуться">
+  <data key="d0">32</data>
+  <data key="d1">0.022718290158603938</data>
+</edge>
+<edge source="крикнуть" target="кричать">
+  <data key="d0">29</data>
+  <data key="d1">0.02944346041886953</data>
+</edge>
+<edge source="назвать" target="называть">
+  <data key="d0">32</data>
+  <data key="d1">0.03209630501148032</data>
+</edge>
+<edge source="назвать" target="звать">
+  <data key="d0">31</data>
+  <data key="d1">0.03103104657763587</data>
+</edge>
+<edge source="позвонить" target="звонить">
+  <data key="d0">31</data>
+  <data key="d1">0.03147404389603294</data>
+</edge>
+<edge source="рассказать" target="рассказывать">
+  <data key="d0">24</data>
+  <data key="d1">0.02402403606010519</data>
+</edge>
+<edge source="узнавать" target="узнать">
+  <data key="d0">27</data>
+  <data key="d1">0.019216794675241136</data>
+</edge>
+<edge source="обладать" target="иметь">
+  <data key="d0">28</data>
+  <data key="d1">0.028169071104898233</data>
+</edge>
+<edge source="резкий" target="быстрый">
+  <data key="d0">18</data>
+  <data key="d1">0.018163554468707134</data>
+</edge>
+<edge source="удивительный" target="прекрасный">
+  <data key="d0">16</data>
+  <data key="d1">0.016096612059941846</data>
+</edge>
+<edge source="возникнуть" target="появиться">
+  <data key="d0">38</data>
+  <data key="d1">0.038191128365918266</data>
+</edge>
+<edge source="возникнуть" target="возникать">
+  <data key="d0">70</data>
+  <data key="d1">0.0703520785687968</data>
+</edge>
+<edge source="изменить" target="измениться">
+  <data key="d0">27</data>
+  <data key="d1">0.027163032851151868</data>
+</edge>
+<edge source="вздохнуть" target="воздух">
+  <data key="d0">16</data>
+  <data key="d1">0.016771525325439293</data>
+</edge>
+<edge source="показать" target="показывать">
+  <data key="d0">21</data>
+  <data key="d1">0.021105794120443454</data>
+</edge>
+<edge source="думать" target="мысль">
+  <data key="d0">18</data>
+  <data key="d1">0.01809046139767479</data>
+</edge>
+<edge source="думать" target="помнить">
+  <data key="d0">19</data>
+  <data key="d1">0.019038114381334806</data>
+</edge>
+<edge source="думать" target="подумать">
+  <data key="d0">65</data>
+  <data key="d1">0.0651956195545694</data>
+</edge>
+<edge source="поговорить" target="разговаривать">
+  <data key="d0">62</data>
+  <data key="d1">0.06275625101718334</data>
+</edge>
+<edge source="поговорить" target="встретиться">
+  <data key="d0">16</data>
+  <data key="d1">0.01641033409249515</data>
+</edge>
+<edge source="поговорить" target="разговор">
+  <data key="d0">54</data>
+  <data key="d1">0.05460398421383315</data>
+</edge>
+<edge source="поговорить" target="считаться">
+  <data key="d0">16</data>
+  <data key="d1">0.016227714674218022</data>
+</edge>
+<edge source="разговаривать" target="разговор">
+  <data key="d0">29</data>
+  <data key="d1">0.029029043572627103</data>
+</edge>
+<edge source="разговаривать" target="звонить">
+  <data key="d0">23</data>
+  <data key="d1">0.023069219227001482</data>
+</edge>
+<edge source="сообщить" target="заявить">
+  <data key="d0">17</data>
+  <data key="d1">0.01712005590194323</data>
+</edge>
+<edge source="верить" target="поверить">
+  <data key="d0">21</data>
+  <data key="d1">0.021255234926994597</data>
+</edge>
+<edge source="вспоминать" target="вспомнить">
+  <data key="d0">28</data>
+  <data key="d1">0.028112449799196786</data>
+</edge>
+<edge source="напоминать" target="помнить">
+  <data key="d0">19</data>
+  <data key="d1">0.01913441299463057</data>
+</edge>
+<edge source="напоминать" target="установить">
+  <data key="d0">23</data>
+  <data key="d1">0.023185907979725556</data>
+</edge>
+<edge source="помнить" target="подумать">
+  <data key="d0">20</data>
+  <data key="d1">0.020020030050087657</data>
+</edge>
+<edge source="снимать" target="снять">
+  <data key="d0">43</data>
+  <data key="d1">0.04312940985917668</data>
+</edge>
+<edge source="известный" target="знаменитый">
+  <data key="d0">19</data>
+  <data key="d1">0.01913402488447172</data>
+</edge>
+<edge source="кино" target="фильм">
+  <data key="d0">32</data>
+  <data key="d1">0.03219374546342135</data>
+</edge>
+<edge source="наблюдать" target="взгляд">
+  <data key="d0">17</data>
+  <data key="d1">0.01710265031368821</data>
+</edge>
+<edge source="снять" target="носить">
+  <data key="d0">30</data>
+  <data key="d1">0.030120481927710843</data>
+</edge>
+<edge source="снять" target="вещь">
+  <data key="d0">16</data>
+  <data key="d1">0.01604815250574016</data>
+</edge>
+<edge source="телефон" target="связь">
+  <data key="d0">44</data>
+  <data key="d1">0.04458230277608691</data>
+</edge>
+<edge source="телефон" target="телефонный">
+  <data key="d0">24</data>
+  <data key="d1">0.02434202273249012</data>
+</edge>
+<edge source="установить" target="программа">
+  <data key="d0">17</data>
+  <data key="d1">0.01705116203734892</data>
+</edge>
+<edge source="установить" target="разработать">
+  <data key="d0">23</data>
+  <data key="d1">0.023139020352408453</data>
+</edge>
+<edge source="директор" target="начальник">
+  <data key="d0">18</data>
+  <data key="d1">0.018461548171757016</data>
+</edge>
+<edge source="директор" target="руководитель">
+  <data key="d0">20</data>
+  <data key="d1">0.02053388090349076</data>
+</edge>
+<edge source="компания" target="организация">
+  <data key="d0">22</data>
+  <data key="d1">0.022066209695392722</data>
+</edge>
+<edge source="компания" target="предприятие">
+  <data key="d0">17</data>
+  <data key="d1">0.01711991700189575</data>
+</edge>
+<edge source="компания" target="фирма">
+  <data key="d0">31</data>
+  <data key="d1">0.03176896589913202</data>
+</edge>
+<edge source="название" target="тема">
+  <data key="d0">17</data>
+  <data key="d1">0.017017025542574508</data>
+</edge>
+<edge source="организация" target="предприятие">
+  <data key="d0">18</data>
+  <data key="d1">0.018108798536667487</data>
+</edge>
+<edge source="организация" target="фирма">
+  <data key="d0">19</data>
+  <data key="d1">0.019451781573271248</data>
+</edge>
+<edge source="открыть" target="открывать">
+  <data key="d0">21</data>
+  <data key="d1">0.021063200163783963</data>
+</edge>
+<edge source="предприятие" target="производство">
+  <data key="d0">32</data>
+  <data key="d1">0.03222572612121553</data>
+</edge>
+<edge source="предприятие" target="завод">
+  <data key="d0">20</data>
+  <data key="d1">0.020367274654165126</data>
+</edge>
+<edge source="предприятие" target="фирма">
+  <data key="d0">16</data>
+  <data key="d1">0.01644649810069009</data>
+</edge>
+<edge source="производство" target="завод">
+  <data key="d0">33</data>
+  <data key="d1">0.03350462737319636</data>
+</edge>
+<edge source="создать" target="создавать">
+  <data key="d0">36</data>
+  <data key="d1">0.03621737713486916</data>
+</edge>
+<edge source="создать" target="создание">
+  <data key="d0">25</data>
+  <data key="d1">0.025227056234191813</data>
+</edge>
+<edge source="зайти" target="войти">
+  <data key="d0">56</data>
+  <data key="d1">0.05622489959839357</data>
+</edge>
+<edge source="остаться" target="оставаться">
+  <data key="d0">32</data>
+  <data key="d1">0.03216082026253296</data>
+</edge>
+<edge source="подойти" target="обратиться">
+  <data key="d0">20</data>
+  <data key="d1">0.020040120401405057</data>
+</edge>
+<edge source="подойти" target="относиться">
+  <data key="d0">20</data>
+  <data key="d1">0.020020030050087657</data>
+</edge>
+<edge source="подойти" target="привыкнуть">
+  <data key="d0">26</data>
+  <data key="d1">0.02607835276426378</data>
+</edge>
+<edge source="веселый" target="смешной">
+  <data key="d0">34</data>
+  <data key="d1">0.03413654618473896</data>
+</edge>
+<edge source="музыка" target="литература">
+  <data key="d0">18</data>
+  <data key="d1">0.018072289156626505</data>
+</edge>
+<edge source="музыка" target="песня">
+  <data key="d0">23</data>
+  <data key="d1">0.023115589563695565</data>
+</edge>
+<edge source="светлый" target="темный">
+  <data key="d0">18</data>
+  <data key="d1">0.018428003595730654</data>
+</edge>
+<edge source="светлый" target="цвет">
+  <data key="d0">17</data>
+  <data key="d1">0.017404225618190064</data>
+</edge>
+<edge source="передать" target="передавать">
+  <data key="d0">38</data>
+  <data key="d1">0.03826836025140251</data>
+</edge>
+<edge source="позволять" target="позволить">
+  <data key="d0">46</data>
+  <data key="d1">0.04728967832154977</data>
+</edge>
+<edge source="будущий" target="бывший">
+  <data key="d0">26</data>
+  <data key="d1">0.026646114513715256</data>
+</edge>
+<edge source="мысль" target="идея">
+  <data key="d0">26</data>
+  <data key="d1">0.026262840632162575</data>
+</edge>
+<edge source="мысль" target="подумать">
+  <data key="d0">17</data>
+  <data key="d1">0.017068307503759435</data>
+</edge>
+<edge source="войти" target="перейти">
+  <data key="d0">17</data>
+  <data key="d1">0.01706827309236948</data>
+</edge>
+<edge source="выход" target="выйти">
+  <data key="d0">35</data>
+  <data key="d1">0.035105333606306605</data>
+</edge>
+<edge source="выход" target="выходить">
+  <data key="d0">20</data>
+  <data key="d1">0.020517580172245947</data>
+</edge>
+<edge source="гореть" target="огонь">
+  <data key="d0">32</data>
+  <data key="d1">0.0587370562579506</data>
+</edge>
+<edge source="заявить" target="объявить">
+  <data key="d0">25</data>
+  <data key="d1">0.025227158984315465</data>
+</edge>
+<edge source="представление" target="спектакль">
+  <data key="d0">24</data>
+  <data key="d1">0.02407222875861024</data>
+</edge>
+<edge source="представление" target="сцена">
+  <data key="d0">19</data>
+  <data key="d1">0.019095487030878946</data>
+</edge>
+<edge source="различный" target="разный">
+  <data key="d0">26</data>
+  <data key="d1">0.026156941649899398</data>
+</edge>
+<edge source="связь" target="телефонный">
+  <data key="d0">16</data>
+  <data key="d1">0.01604815250574016</data>
+</edge>
+<edge source="появиться" target="явиться">
+  <data key="d0">28</data>
+  <data key="d1">0.028197739132612375</data>
+</edge>
+<edge source="появиться" target="возникать">
+  <data key="d0">25</data>
+  <data key="d1">0.025050100200400802</data>
+</edge>
+<edge source="длинный" target="короткий">
+  <data key="d0">29</data>
+  <data key="d1">0.029689561348677167</data>
+</edge>
+<edge source="приходить" target="прийти">
+  <data key="d0">23</data>
+  <data key="d1">0.023115589563695565</data>
+</edge>
+<edge source="темный" target="узкий">
+  <data key="d0">27</data>
+  <data key="d1">0.027054108216432865</data>
+</edge>
+<edge source="темный" target="цвет">
+  <data key="d0">16</data>
+  <data key="d1">0.01603206412825651</data>
+</edge>
+<edge source="круглый" target="круг">
+  <data key="d0">19</data>
+  <data key="d1">0.019114688128772636</data>
+</edge>
+<edge source="одинаковый" target="похожий">
+  <data key="d0">33</data>
+  <data key="d1">0.033066198662318344</data>
+</edge>
+<edge source="японский" target="восточный">
+  <data key="d0">19</data>
+  <data key="d1">0.01907634368067231</data>
+</edge>
+<edge source="дойти" target="идти">
+  <data key="d0">18</data>
+  <data key="d1">0.01807232559221587</data>
+</edge>
+<edge source="обратиться" target="относиться">
+  <data key="d0">17</data>
+  <data key="d1">0.01705116203734892</data>
+</edge>
+<edge source="относиться" target="привыкнуть">
+  <data key="d0">23</data>
+  <data key="d1">0.023092416034498058</data>
+</edge>
+<edge source="духовный" target="религиозный">
+  <data key="d0">20</data>
+  <data key="d1">0.020141078825759703</data>
+</edge>
+<edge source="военный" target="солдат">
+  <data key="d0">28</data>
+  <data key="d1">0.028747433264887063</data>
+</edge>
+<edge source="военный" target="генерал">
+  <data key="d0">22</data>
+  <data key="d1">0.022610494983517433</data>
+</edge>
+<edge source="вызывать" target="вызвать">
+  <data key="d0">71</data>
+  <data key="d1">0.07157316250531215</data>
+</edge>
+<edge source="дочь" target="девочка">
+  <data key="d0">25</data>
+  <data key="d1">0.025588549739482217</data>
+</edge>
+<edge source="подняться" target="встать">
+  <data key="d0">19</data>
+  <data key="d1">0.019095564182959133</data>
+</edge>
+<edge source="род" target="женский">
+  <data key="d0">55</data>
+  <data key="d1">0.05505508263774106</data>
+</edge>
+<edge source="род" target="пол">
+  <data key="d0">53</data>
+  <data key="d1">0.05426273532033236</data>
+</edge>
+<edge source="дополнительный" target="основной">
+  <data key="d0">17</data>
+  <data key="d1">0.0171198475531398</data>
+</edge>
+<edge source="минимальный" target="налоговый">
+  <data key="d0">20</data>
+  <data key="d1">0.02020206142655247</data>
+</edge>
+<edge source="красный" target="зеленый">
+  <data key="d0">20</data>
+  <data key="d1">0.020100756305184243</data>
+</edge>
+<edge source="национальный" target="государственный">
+  <data key="d0">20</data>
+  <data key="d1">0.02016145422684849</data>
+</edge>
+<edge source="плакать" target="улыбаться">
+  <data key="d0">36</data>
+  <data key="d1">0.0365872552403475</data>
+</edge>
+<edge source="плакать" target="улыбнуться">
+  <data key="d0">44</data>
+  <data key="d1">0.031588465622287426</data>
+</edge>
+<edge source="православный" target="религиозный">
+  <data key="d0">32</data>
+  <data key="d1">0.03229063197976552</data>
+</edge>
+<edge source="православный" target="церковь">
+  <data key="d0">31</data>
+  <data key="d1">0.031667756328642375</data>
+</edge>
+<edge source="связанный" target="связать">
+  <data key="d0">32</data>
+  <data key="d1">0.03225813007723656</data>
+</edge>
+<edge source="старик" target="старый">
+  <data key="d0">20</data>
+  <data key="d1">0.02022369785697524</data>
+</edge>
+<edge source="западный" target="ветер">
+  <data key="d0">18</data>
+  <data key="d1">0.018</data>
+</edge>
+<edge source="западный" target="восточный">
+  <data key="d0">32</data>
+  <data key="d1">0.032096434171401574</data>
+</edge>
+<edge source="западный" target="сторона">
+  <data key="d0">16</data>
+  <data key="d1">0.016032096321124047</data>
+</edge>
+<edge source="западный" target="южный">
+  <data key="d0">27</data>
+  <data key="d1">0.02708136633212008</data>
+</edge>
+<edge source="встреча" target="встретиться">
+  <data key="d0">16</data>
+  <data key="d1">0.01624506971905821</data>
+</edge>
+<edge source="домашний" target="семейный">
+  <data key="d0">20</data>
+  <data key="d1">0.02049610703169808</data>
+</edge>
+<edge source="мягкий" target="сон">
+  <data key="d0">19</data>
+  <data key="d1">0.019</data>
+</edge>
+<edge source="мягкий" target="спать">
+  <data key="d0">37</data>
+  <data key="d1">0.0374138410354042</data>
+</edge>
+<edge source="нижний" target="губа">
+  <data key="d0">16</data>
+  <data key="d1">0.01619552660357832</data>
+</edge>
+<edge source="купить" target="покупать">
+  <data key="d0">16</data>
+  <data key="d1">0.01632707463045878</data>
+</edge>
+<edge source="платить" target="отдать">
+  <data key="d0">19</data>
+  <data key="d1">0.019134180125701256</data>
+</edge>
+<edge source="искать" target="найти">
+  <data key="d0">40</data>
+  <data key="d1">0.04008024080281011</data>
+</edge>
+<edge source="искать" target="находить">
+  <data key="d0">66</data>
+  <data key="d1">0.06626506024096386</data>
+</edge>
+<edge source="искать" target="обнаружить">
+  <data key="d0">20</data>
+  <data key="d1">0.02016145422684849</data>
+</edge>
+<edge source="найти" target="находить">
+  <data key="d0">32</data>
+  <data key="d1">0.03206419264224809</data>
+</edge>
+<edge source="найти" target="обнаружить">
+  <data key="d0">21</data>
+  <data key="d1">0.021127145460370263</data>
+</edge>
+<edge source="находить" target="обнаружить">
+  <data key="d0">18</data>
+  <data key="d1">0.01814530880416364</data>
+</edge>
+<edge source="положить" target="поставить">
+  <data key="d0">32</data>
+  <data key="d1">0.032</data>
+</edge>
+<edge source="гулять" target="встретиться">
+  <data key="d0">23</data>
+  <data key="d1">0.023446450553616938</data>
+</edge>
+<edge source="гулять" target="встречаться">
+  <data key="d0">24</data>
+  <data key="d1">0.024169294590911647</data>
+</edge>
+<edge source="двигаться" target="идти">
+  <data key="d0">16</data>
+  <data key="d1">0.01603206412825651</data>
+</edge>
+<edge source="сцена" target="театр">
+  <data key="d0">20</data>
+  <data key="d1">0.02016133129827285</data>
+</edge>
+<edge source="сцена" target="спектакль">
+  <data key="d0">23</data>
+  <data key="d1">0.023092416034498058</data>
+</edge>
+<edge source="театр" target="спектакль">
+  <data key="d0">59</data>
+  <data key="d1">0.05935661742574343</data>
+</edge>
+<edge source="скорый" target="быстрый">
+  <data key="d0">21</data>
+  <data key="d1">0.021169526938190915</data>
+</edge>
+<edge source="смерть" target="умереть">
+  <data key="d0">54</data>
+  <data key="d1">0.05482575388341223</data>
+</edge>
+<edge source="ветер" target="южный">
+  <data key="d0">26</data>
+  <data key="d1">0.02607835276426378</data>
+</edge>
+<edge source="выйти" target="выходить">
+  <data key="d0">46</data>
+  <data key="d1">0.04714312567811161</data>
+</edge>
+<edge source="поле" target="хлеб">
+  <data key="d0">19</data>
+  <data key="d1">0.01949088067116341</data>
+</edge>
+<edge source="вещь" target="носить">
+  <data key="d0">16</data>
+  <data key="d1">0.01604815250574016</data>
+</edge>
+<edge source="есть" target="отказаться">
+  <data key="d0">16</data>
+  <data key="d1">0.016064289415302996</data>
+</edge>
+<edge source="песня" target="петь">
+  <data key="d0">16</data>
+  <data key="d1">0.016064289415302996</data>
+</edge>
+<edge source="считаться" target="встречаться">
+  <data key="d0">18</data>
+  <data key="d1">0.01809046139767479</data>
+</edge>
+<edge source="считаться" target="согласиться">
+  <data key="d0">24</data>
+  <data key="d1">0.02469768497923816</data>
+</edge>
+<edge source="уезжать" target="уехать">
+  <data key="d0">64</data>
+  <data key="d1">0.06438683924148439</data>
+</edge>
+<edge source="уезжать" target="уйти">
+  <data key="d0">17</data>
+  <data key="d1">0.017102754173519294</data>
+</edge>
+<edge source="смотреть" target="посмотреть">
+  <data key="d0">18</data>
+  <data key="d1">0.01821996742902561</data>
+</edge>
+<edge source="смотреть" target="глядеть">
+  <data key="d0">31</data>
+  <data key="d1">0.031378832794432994</data>
+</edge>
+<edge source="писатель" target="автор">
+  <data key="d0">32</data>
+  <data key="d1">0.03278688524590164</data>
+</edge>
+<edge source="писатель" target="поэт">
+  <data key="d0">47</data>
+  <data key="d1">0.04766979451779315</data>
+</edge>
+<edge source="писатель" target="стихи">
+  <data key="d0">39</data>
+  <data key="d1">0.03955578694029644</data>
+</edge>
+<edge source="создавать" target="создание">
+  <data key="d0">16</data>
+  <data key="d1">0.016112863060607763</data>
+</edge>
+<edge source="сон" target="спать">
+  <data key="d0">25</data>
+  <data key="d1">0.02527962232121905</data>
+</edge>
+<edge source="религиозный" target="церковь">
+  <data key="d0">19</data>
+  <data key="d1">0.019428865439428546</data>
+</edge>
+<edge source="погибнуть" target="умереть">
+  <data key="d0">31</data>
+  <data key="d1">0.031569275713955944</data>
+</edge>
+<edge source="произойти" target="происходить">
+  <data key="d0">20</data>
+  <data key="d1">0.02018172718745237</data>
+</edge>
+<edge source="происходить" target="зависеть">
+  <data key="d0">20</data>
+  <data key="d1">0.02020206142655247</data>
+</edge>
+<edge source="рынок" target="магазин">
+  <data key="d0">19</data>
+  <data key="d1">0.019427402862985686</data>
+</edge>
+<edge source="святой" target="церковь">
+  <data key="d0">25</data>
+  <data key="d1">0.025436153986139992</data>
+</edge>
+<edge source="желать" target="меньший">
+  <data key="d0">17</data>
+  <data key="d1">0.017137131603531922</data>
+</edge>
+<edge source="изменение" target="измениться">
+  <data key="d0">35</data>
+  <data key="d1">0.03535360749646683</data>
+</edge>
+<edge source="северный" target="южный">
+  <data key="d0">83</data>
+  <data key="d1">0.08366952488783232</data>
+</edge>
+<edge source="армия" target="солдат">
+  <data key="d0">16</data>
+  <data key="d1">0.01626100232904333</data>
+</edge>
+<edge source="помощь" target="помогать">
+  <data key="d0">20</data>
+  <data key="d1">0.0201005126640831</data>
+</edge>
+<edge source="встретиться" target="встречаться">
+  <data key="d0">48</data>
+  <data key="d1">0.04878411555097349</data>
+</edge>
+<edge source="посмотреть" target="взгляд">
+  <data key="d0">18</data>
+  <data key="d1">0.01803610836126455</data>
+</edge>
+<edge source="посмотреть" target="глядеть">
+  <data key="d0">17</data>
+  <data key="d1">0.017</data>
+</edge>
+<edge source="восточный" target="южный">
+  <data key="d0">16</data>
+  <data key="d1">0.01609657947686117</data>
+</edge>
+<edge source="региональный" target="областной">
+  <data key="d0">18</data>
+  <data key="d1">0.01810898182317451</data>
+</edge>
+<edge source="отдать" target="дать">
+  <data key="d0">27</data>
+  <data key="d1">0.02708125735343652</data>
+</edge>
+<edge source="стол" target="дверь">
+  <data key="d0">18</data>
+  <data key="d1">0.018404946460088622</data>
+</edge>
+<edge source="стол" target="пол">
+  <data key="d0">19</data>
+  <data key="d1">0.019650172886900758</data>
+</edge>
+<edge source="врач" target="доктор">
+  <data key="d0">48</data>
+  <data key="d1">0.049180431126719035</data>
+</edge>
+<edge source="выпить" target="пить">
+  <data key="d0">32</data>
+  <data key="d1">0.03276089528129894</data>
+</edge>
+<edge source="стремиться" target="измениться">
+  <data key="d0">22</data>
+  <data key="d1">0.022155096833475035</data>
+</edge>
+<edge source="дать" target="попросить">
+  <data key="d0">24</data>
+  <data key="d1">0.02404814448168607</data>
+</edge>
+<edge source="дать" target="просить">
+  <data key="d0">19</data>
+  <data key="d1">0.019076305220883535</data>
+</edge>
+<edge source="дать" target="брать">
+  <data key="d0">29</data>
+  <data key="d1">0.029204564297351573</data>
+</edge>
+<edge source="написать" target="писать">
+  <data key="d0">27</data>
+  <data key="d1">0.027356760451040935</data>
+</edge>
+<edge source="попросить" target="занять">
+  <data key="d0">23</data>
+  <data key="d1">0.023023034557600807</data>
+</edge>
+<edge source="попросить" target="просить">
+  <data key="d0">54</data>
+  <data key="d1">0.05410832508379366</data>
+</edge>
+<edge source="попросить" target="брать">
+  <data key="d0">21</data>
+  <data key="d1">0.021105794120443454</data>
+</edge>
+<edge source="улыбнуться" target="смеяться">
+  <data key="d0">29</data>
+  <data key="d1">0.020650745456255833</data>
+</edge>
+<edge source="улыбнуться" target="улыбаться">
+  <data key="d0">110</data>
+  <data key="d1">0.07817264845554579</data>
+</edge>
+<edge source="договориться" target="согласиться">
+  <data key="d0">23</data>
+  <data key="d1">0.023812790408301424</data>
+</edge>
+<edge source="согласиться" target="согласный">
+  <data key="d0">29</data>
+  <data key="d1">0.029903264203004386</data>
+</edge>
+<edge source="машина" target="автомобиль">
+  <data key="d0">67</data>
+  <data key="d1">0.06788529445258307</data>
+</edge>
+<edge source="прислать" target="письмо">
+  <data key="d0">23</data>
+  <data key="d1">0.023185907979725556</data>
+</edge>
+<edge source="составить" target="составлять">
+  <data key="d0">31</data>
+  <data key="d1">0.03118712273641851</data>
+</edge>
+<edge source="занять" target="брать">
+  <data key="d0">19</data>
+  <data key="d1">0.01911484289981568</data>
+</edge>
+<edge source="смеяться" target="улыбаться">
+  <data key="d0">25</data>
+  <data key="d1">0.025201664122841062</data>
+</edge>
+<edge source="завод" target="промышленный">
+  <data key="d0">16</data>
+  <data key="d1">0.016615829610957738</data>
+</edge>
+<edge source="взгляд" target="глядеть">
+  <data key="d0">29</data>
+  <data key="d1">0.029058174582037334</data>
+</edge>
+<edge source="дверь" target="пол">
+  <data key="d0">19</data>
+  <data key="d1">0.01969039846203309</data>
+</edge>
+<edge source="пол" target="женский">
+  <data key="d0">62</data>
+  <data key="d1">0.0635407346096287</data>
+</edge>
+<edge source="солдат" target="генерал">
+  <data key="d0">21</data>
+  <data key="d1">0.02158274521153937</data>
+</edge>
+<edge source="отец" target="папа">
+  <data key="d0">18</data>
+  <data key="d1">0.018518557720235147</data>
+</edge>
+<edge source="зависеть" target="отказаться">
+  <data key="d0">20</data>
+  <data key="d1">0.02014099712134094</data>
+</edge>
+<edge source="редкий" target="ценный">
+  <data key="d0">18</data>
+  <data key="d1">0.01809046139767479</data>
+</edge>
+<edge source="роман" target="письмо">
+  <data key="d0">17</data>
+  <data key="d1">0.01722498061803358</data>
+</edge>
+<edge source="регион" target="география">
+  <data key="d0">16</data>
+  <data key="d1">0.016064386578049976</data>
+</edge>
+<edge source="город" target="география">
+  <data key="d0">41</data>
+  <data key="d1">0.041206217447438125</data>
+</edge>
+<edge source="вечер" target="ночь">
+  <data key="d0">18</data>
+  <data key="d1">0.018</data>
+</edge>
+<edge source="стихи" target="автор">
+  <data key="d0">18</data>
+  <data key="d1">0.01825651704936759</data>
+</edge>
+<edge source="стихи" target="литература">
+  <data key="d0">19</data>
+  <data key="d1">0.019076305220883535</data>
+</edge>
+<edge source="стихи" target="поэт">
+  <data key="d0">57</data>
+  <data key="d1">0.0572289156626506</data>
+</edge>
+<edge source="привезти" target="привести">
+  <data key="d0">21</data>
+  <data key="d1">0.021063284924982283</data>
+</edge>
+<edge source="привести" target="приводить">
+  <data key="d0">51</data>
+  <data key="d1">0.0511023070235829</data>
+</edge>
+<edge source="товарищ" target="генерал">
+  <data key="d0">44</data>
+  <data key="d1">0.044718772588392366</data>
+</edge>
+<edge source="рисунок" target="картина">
+  <data key="d0">24</data>
+  <data key="d1">0.02404809619238477</data>
+</edge>
+<edge source="левый" target="правый">
+  <data key="d0">19</data>
+  <data key="d1">0.01909571848992503</data>
+</edge>
+<edge source="картина" target="художник">
+  <data key="d0">28</data>
+  <data key="d1">0.028370556312055307</data>
+</edge>
+<edge source="оставить" target="оставлять">
+  <data key="d0">42</data>
+  <data key="d1">0.04233879572637298</data>
+</edge>
+<edge source="поэт" target="автор">
+  <data key="d0">22</data>
+  <data key="d1">0.02231352083811594</data>
+</edge>
+</graph></graphml>
