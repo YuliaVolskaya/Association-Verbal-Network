@@ -95,7 +95,7 @@
 ### ⚠️ Важно: файл с полными данными
 
 Из-за ограничений GitHub полный датасет 0_final_dataset.csv и 1_associations_VAD.csv не хранятся в репозитории. Для работы инструментов `tools/` вам нужно:
-- **Для полной функциональности:** скачать [`файлы`]([https://drive.google.com/drive/folders/1DPyhXHK829MihVgK0y8b5l_h_6fnfiE0](https://docs.google.com/spreadsheets/d/1EXzypHQOe8V8Xb5lFXrA5PSvszfWTd2l/edit?usp=drive_link&ouid=113813171040166900088&rtpof=true&sd=true) и поместите в папку `data/`.
+- **Для полной функциональности:** скачать [`файлы`]([https://drive.google.com/drive/folders/1DPyhXHK829MihVgK0y8b5l_h_6fnfiE0](https://docs.google.com/spreadsheets/d/1EXzypHQOe8V8Xb5lFXrA5PSvszfWTd2l/edit?usp=drive_link&ouid=113813171040166900088&rtpof=true&sd=true)) и поместите в папку `data/`.
 - **Для быстрого теста:** использовать фрагмент `data/0_final_dataset.csv` (он уже в репозитории). 
 
   **По ссылке, указанной выше, также можно найти полный файл словаря excel в удобном для работы формате.** 
